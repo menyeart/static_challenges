@@ -1,0 +1,44 @@
+h1 {
+  background-color: black;
+  font-size: 30;
+  font-weight: bold;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding: 15px;
+}
+
+body {
+  width: 100%;
+  flex-direction: column;
+  display: flex;
+}
+
+.menu {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+  align-items: center;
+  background-color: darkblue;
+  color: white;
+}
+
+.text {
+  color: white;
+  background-color: black;
+  padding: 10px;
+
+}
+
+.images {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: white;
+}
+
+p {
+  padding: 5px;
+}
+
+
+
